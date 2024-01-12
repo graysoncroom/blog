@@ -44,10 +44,10 @@ theme = "archie"
     url="/posts"
     weight=2
 
-[[menu.main]]
-    name="About Me"
-    url="/about-me"
-    weight=3
+#[[menu.main]]
+#    name="About Me"
+#    url="/about-me"
+#    weight=3
 
 #[[menu.main]]
 #    name="Tags"
