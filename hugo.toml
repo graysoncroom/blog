@@ -1,4 +1,55 @@
-baseURL = "https://localhost:1313"
+baseURL = "https://graysoncroom.github.io/blog/"
 languageCode = "en-us"
 title = "Grayson's Blog"
 theme = "archie"
+
+[markup]
+    defaultMarkdownHandler='goldmark'
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe=true
+
+[[module.mounts]]
+    source='static'
+    target='static'
+
+[[module.mounts]]
+    source='images'
+    target='static/images'
+
+[params]
+    mode="light"
+    useCDN=false
+    subtitle="A place to put my rants on Mathematics, Computer Science, and life as an aspiring mathematician."
+    mathjax=true # enable MathJax support
+    katex=false # disable katex support
+
+[[params.social]]
+    name="GitHub"
+    icon="github"
+    url="https://github.com/graysoncroom"
+
+[[params.social]]
+    name="LinkedIn"
+    icon="linkedin"
+    url="https://www.linkedin.com/in/graysoncroom/"
+
+[[menu.main]]
+    name="Home"
+    url="/"
+    weight=1
+
+[[menu.main]]
+    name="All Posts"
+    url="/posts"
+    weight=2
+
+[[menu.main]]
+    name="About Me"
+    url="/about-me"
+    weight=3
+
+#[[menu.main]]
+#    name="Tags"
+#    url="/tags"
+#    weight=4
