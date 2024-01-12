@@ -51,7 +51,7 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Clear ./public
-        run: "[[ -d ./public ]] && rm -rf ./public/*"
+        run: "[[ -d ./public ]] && rm -rf ./public/* || echo 'No ./public directory found'"
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
