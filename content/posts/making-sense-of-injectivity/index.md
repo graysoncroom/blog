@@ -1,7 +1,7 @@
 +++
 title = 'Making Sense of Injectivity'
 date = 2024-01-12T13:34:43-06:00
-draft = true
+draft = false
 +++
 
 ## Introduction

@@ -5,6 +5,17 @@
     <link>https://graysoncroom.github.io/blog/</link>
     <description>Recent content on Grayson&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://graysoncroom.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jan 2024 13:34:43 -0600</lastBuildDate><atom:link href="https://graysoncroom.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making Sense of Injectivity</title>
+      <link>https://graysoncroom.github.io/blog/posts/making-sense-of-injectivity/</link>
+      <pubDate>Fri, 12 Jan 2024 13:34:43 -0600</pubDate>
+      
+      <guid>https://graysoncroom.github.io/blog/posts/making-sense-of-injectivity/</guid>
+      <description>Introduction When I was first introduced to the idea of injectivity, the definition felt rather arbitrary and unmotivated. Conceptually, when a function is injective it means that it is one-to-one, or that it maps every element in its domain to exactly one element in its codomain.
+This is (and was) a clear statement, but my confusion stemed from the way that we formalize this concept in the language of mathematics.</description>
+    </item>
+    
   </channel>
 </rss>

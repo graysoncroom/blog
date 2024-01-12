@@ -13,28 +13,8 @@
       <pubDate>Fri, 12 Jan 2024 13:34:43 -0600</pubDate>
       
       <guid>https://graysoncroom.github.io/blog/posts/making-sense-of-injectivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Quest to Understand Green&#39;s Theorem</title>
-      <link>https://graysoncroom.github.io/blog/posts/a-quest-to-understand-greens-theorem/</link>
-      <pubDate>Wed, 10 Jan 2024 18:40:19 -0600</pubDate>
-      
-      <guid>https://graysoncroom.github.io/blog/posts/a-quest-to-understand-greens-theorem/</guid>
-      <description>Introduction Green&amp;rsquo;s Theorem never really made sense to me.
-My first introduction to Green&amp;rsquo;s Theorem was in my first sememester of university in a course called Calculus of Several Variables. The statement of the theorem wasn&amp;rsquo;t overly complicated, but I just couldn&amp;rsquo;t put it all together and see the big picture.
-A couple years passed without seeing it again. Most of my coursework in this time was more focused on CS courses, Algebra, and intro-to-proof type courses.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://graysoncroom.github.io/blog/posts/my-first-post/</link>
-      <pubDate>Wed, 10 Jan 2024 17:37:18 -0600</pubDate>
-      
-      <guid>https://graysoncroom.github.io/blog/posts/my-first-post/</guid>
-      <description>Intentions This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <description>Introduction When I was first introduced to the idea of injectivity, the definition felt rather arbitrary and unmotivated. Conceptually, when a function is injective it means that it is one-to-one, or that it maps every element in its domain to exactly one element in its codomain.
+This is (and was) a clear statement, but my confusion stemed from the way that we formalize this concept in the language of mathematics.</description>
     </item>
     
   </channel>
