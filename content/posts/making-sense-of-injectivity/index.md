@@ -141,8 +141,3 @@ to me clearly. Maybe it was one of those things I missed back in highschool, may
 so obvious to everyone else that the professors at UTD didn't feel the need to elaborate, but
 I never once had anyone compare these two definitions side by side and explain how the
 combination of the two requirements is what yields the *one-to-one* property. 
-
-Moreover, many of my peers can't give me straight answers w.r.t. why injectivity is defined
-this way and not some other way, which I think reflects just as poorly on the education
-system as it does on these students for not more thinking critically about the way we
-formalize these concepts.
