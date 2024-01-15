@@ -1,7 +1,7 @@
 baseURL = "https://graysoncroom.github.io/blog/"
 languageCode = "en-us"
 title = "Grayson's Blog"
-theme = "archie"
+theme = ["hugo-video", "archie"]
 
 [markup]
     defaultMarkdownHandler='goldmark'
