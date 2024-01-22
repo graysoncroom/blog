@@ -245,7 +245,7 @@ For example, given some $g \in V$, we can find it's derivative by:
 
 - $g' = T^{-1} D T g$
 - or $g' = T^{-1} L^{-1} \Lambda L T g$
-- or even $g' = T^{-1} L^{-1} \Lambda L D^{-1} L^{-1} \Lambda L T$, but this is a silly path.
+- or even $g' = T^{-1} L^{-1} \Lambda L D^{-1} L^{-1} \Lambda L T g$, but this is a silly path.
 
 Remark: It should be noted that these "paths" are to be read right-to-left as the
 multiplication of linear maps is function composition. 
