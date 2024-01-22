@@ -42,6 +42,11 @@ $e^{2x}\sin{3x}$ and $e^{2x}\cos{3x}$.
 
 So we define a vector space $V = \text{span} \\{ e^{2x}\sin{3x}, e^{2x}\cos{3x}\\}$
 
+The key insight here is that, because all derivatives of $f(x)$ are of the form
+$ae^{2x}\sin{3x} + be^{2x}\cos{3x}$, the only important information here is the
+choice of $a$ and $b$! This means we don't lose any information about the derivative
+by representing it as a list (vector) of those two coefficients.
+
 And we create a map called $T : V \rightarrow \mathbf{R}^2$ where $e^{2x}\sin{3x} \stackrel{T}{\mapsto}$
 $ \begin{bmatrix} 1 \cr 0 \end{bmatrix}$ and
 $ e^{2x}\cos{3x} \stackrel{T}{\mapsto} \begin{bmatrix} 0 \cr 1 \end{bmatrix}$.
