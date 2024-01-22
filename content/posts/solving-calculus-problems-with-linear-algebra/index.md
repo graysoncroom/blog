@@ -174,7 +174,7 @@ two seperate times. The key to understanding this is to realize the above linear
 transforms the basis vectors in $\overline{\mathbf{R}}^2$ into eigenvectors in
 $\mathbf{R}^2$.
 
-Finally, it's inverse ($L$) can be found with the 2-by-2 inverse formula:
+Finally, its inverse ($L$) can be found with the 2-by-2 inverse formula:
 <div>
 $\det \begin{bmatrix} a & b \\ c & d \end{bmatrix} = \frac{1}{\det \begin{bmatrix} a & b \\ c & d \end{bmatrix}} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$
 </div>
